@@ -12,7 +12,7 @@ Dữ liệu máy chủ xử lý: email đăng nhập Google hoặc Apple của t
 ## App Store metadata (gợi ý khi trả lời Review)
 
 - **2.3.8:** Không dùng subtitle / screenshot mang nghĩa “dành riêng cho trẻ 4–6”. Định vị: công cụ cho phụ huynh & giáo viên. Nếu cần Kids category thì chọn Made for Kids; hiện tại không nộp category Kids.
-- **2.3.6:** Ứng dụng **không** có Age Assurance. Trước thanh toán chỉ có bước xác nhận người lớn (parent gate). Trong Age Rating chọn **None** cho Age Assurance / In-App Controls kiểu Age Assurance. Có thể trích dẫn trang [safety.html](safety.html).
+- **2.3.6:** Ứng dụng **không** có Age Assurance. Trước thanh toán / vào Tài khoản chỉ yêu cầu **mật khẩu phụ huynh**. Trong Age Rating chọn **None** cho Age Assurance. Có thể trích dẫn trang [safety.html](safety.html).
 
 ## Trước khi công khai
 
